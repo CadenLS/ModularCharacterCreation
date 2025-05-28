@@ -24,7 +24,7 @@ class Program
                 Console.Write("Invalid input. Please enter 1, 2, or 3: ");
             }
 
-            // 🎯 Use Factory Method pattern
+            // Use Factory Method pattern
             CharacterCreator creator = charChoice switch
             {
                 1 => new WarriorCreator(),
