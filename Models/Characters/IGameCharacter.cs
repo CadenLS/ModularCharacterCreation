@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ModularGameCharacterCreation.Models.Characters
 {
-    interface IGameCharacter
+    // Interface for game characters holding common properties and methods
+    public interface IGameCharacter
     {
+        string Name { get; }
+        void Display();
+        void Attack();
     }
 }

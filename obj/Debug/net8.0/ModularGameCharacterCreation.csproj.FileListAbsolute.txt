@@ -12,3 +12,4 @@ C:\Users\csinclair\Desktop\Neumont Documents\SoftwareDesignPrincaples\ModularGam
 C:\Users\csinclair\Desktop\Neumont Documents\SoftwareDesignPrincaples\ModularGameCharacterCreation\obj\Debug\net8.0\ModularGameCharacterCreation.pdb
 C:\Users\csinclair\Desktop\Neumont Documents\SoftwareDesignPrincaples\ModularGameCharacterCreation\obj\Debug\net8.0\ModularGameCharacterCreation.genruntimeconfig.cache
 C:\Users\csinclair\Desktop\Neumont Documents\SoftwareDesignPrincaples\ModularGameCharacterCreation\obj\Debug\net8.0\ref\ModularGameCharacterCreation.dll
+C:\Users\csinclair\Desktop\Neumont Documents\SoftwareDesignPrincaples\ModularGameCharacterCreation\obj\Debug\net8.0\ModularGameCharacterCreation.sourcelink.json
