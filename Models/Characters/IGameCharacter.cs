@@ -10,7 +10,7 @@ namespace ModularGameCharacterCreation.Models.Characters
     public interface IGameCharacter
     {
         string Name { get; }
-        void Display();
-        void Attack();
+        string Display();
+        string Attack();
     }
 }

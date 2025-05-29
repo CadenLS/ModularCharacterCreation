@@ -11,8 +11,8 @@ namespace ModularGameCharacterCreation.Models.Characters
     {
         public string Name => "Mage";
 
-        public void Display() => Console.WriteLine("A wise mage appears.");
+        public string Display() => "A wise mage appears.";
 
-        public void Attack() => Console.WriteLine("Mage casts a powerful spell!");
+        public string Attack() => "Mage casts a powerful spell!";
     }
 }

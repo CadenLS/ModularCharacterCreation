@@ -11,9 +11,9 @@ namespace ModularGameCharacterCreation.Models.Characters
     {
         public string Name => "Warrior";
 
-        public void Display() => Console.WriteLine("A strong warrior appears.");
+        public string Display() => "A strong warrior appears.";
 
-        public void Attack() => Console.WriteLine("Warrior swings a mighty sword!");
+        public string Attack() => "Warrior swings a mighty sword!";
     }
 
 }

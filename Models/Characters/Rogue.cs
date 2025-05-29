@@ -11,9 +11,9 @@ namespace ModularGameCharacterCreation.Models.Characters
     {
         public string Name => "Rogue";
 
-        public void Display() => Console.WriteLine("A sneaky rogue appears.");
+        public string Display() => "A sneaky rogue appears.";
 
-        public void Attack() => Console.WriteLine("Rogue strikes from the shadows!");
+        public string Attack() => "Rogue strikes from the shadows!";
     }
 
 }
