@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ModularGameCharacterCreation.Models.Strategy
 {
-    interface IAttackStrategy
+    public interface IAttackStrategy
     {
+        string Execute();
     }
+
 }

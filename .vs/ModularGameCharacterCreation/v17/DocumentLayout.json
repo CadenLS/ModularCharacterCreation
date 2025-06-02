@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\decorators\\sworddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:decorators\\sworddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\decorators\\shielddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:decorators\\shielddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\characters\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\characters\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\characters\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\characters\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\characters\\igamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\characters\\igamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\strategy\\strategiccharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\strategy\\strategiccharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\characters\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\characters\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\strategy\\defensivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\strategy\\defensivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:decorators\\characterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\strategy\\aggressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\strategy\\aggressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|c:\\users\\csinclair\\desktop\\neumont documents\\softwaredesignprincaples\\modulargamecharactercreation\\models\\strategy\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA434EA-1941-4FFF-A0BB-A8454F4C64BC}|ModularGameCharacterCreation.csproj|solutionrelative:models\\strategy\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,104 +42,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rogue.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\Rogue.cs",
-              "RelativeDocumentMoniker": "Models\\Characters\\Rogue.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\Rogue.cs",
-              "RelativeToolTip": "Models\\Characters\\Rogue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StrategicCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\StrategicCharacter.cs",
+              "RelativeDocumentMoniker": "Models\\Strategy\\StrategicCharacter.cs",
+              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\StrategicCharacter.cs",
+              "RelativeToolTip": "Models\\Strategy\\StrategicCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:41:44.863Z",
+              "WhenOpened": "2025-06-02T16:28:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefensiveStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\DefensiveStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\Strategy\\DefensiveStrategy.cs",
+              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\DefensiveStrategy.cs",
+              "RelativeToolTip": "Models\\Strategy\\DefensiveStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:21:19.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Mage.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\Mage.cs",
-              "RelativeDocumentMoniker": "Models\\Characters\\Mage.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\Mage.cs",
-              "RelativeToolTip": "Models\\Characters\\Mage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Title": "AggressiveStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\AggressiveStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\Strategy\\AggressiveStrategy.cs",
+              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\AggressiveStrategy.cs",
+              "RelativeToolTip": "Models\\Strategy\\AggressiveStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:41:41.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\Warrior.cs",
-              "RelativeDocumentMoniker": "Models\\Characters\\Warrior.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\Warrior.cs",
-              "RelativeToolTip": "Models\\Characters\\Warrior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:41:12.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShieldDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Decorators\\ShieldDecorator.cs",
-              "RelativeDocumentMoniker": "Decorators\\ShieldDecorator.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Decorators\\ShieldDecorator.cs",
-              "RelativeToolTip": "Decorators\\ShieldDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:17:48.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SwordDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Decorators\\SwordDecorator.cs",
-              "RelativeDocumentMoniker": "Decorators\\SwordDecorator.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Decorators\\SwordDecorator.cs",
-              "RelativeToolTip": "Decorators\\SwordDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:17:42.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CharacterDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Decorators\\CharacterDecorator.cs",
-              "RelativeDocumentMoniker": "Decorators\\CharacterDecorator.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Decorators\\CharacterDecorator.cs",
-              "RelativeToolTip": "Decorators\\CharacterDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:17:20.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGameCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\IGameCharacter.cs",
-              "RelativeDocumentMoniker": "Models\\Characters\\IGameCharacter.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Characters\\IGameCharacter.cs",
-              "RelativeToolTip": "Models\\Characters\\IGameCharacter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T10:11:51.811Z",
+              "WhenOpened": "2025-06-02T16:21:02.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IAttackStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\IAttackStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\Strategy\\IAttackStrategy.cs",
+              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Models\\Strategy\\IAttackStrategy.cs",
+              "RelativeToolTip": "Models\\Strategy\\IAttackStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:48.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\SoftwareDesignPrincaples\\ModularGameCharacterCreation\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwD4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEcAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:17:26.5Z",
               "EditorCaption": ""

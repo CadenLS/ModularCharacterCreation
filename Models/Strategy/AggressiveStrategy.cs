@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ModularGameCharacterCreation.Models.Strategy
 {
-    class AggressiveStrategy
+    public class AggressiveStrategy : IAttackStrategy
     {
+        public string Execute() => "Attacks relentlessly!";
     }
+
 }

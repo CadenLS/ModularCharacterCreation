@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ModularGameCharacterCreation.Models.Strategy
 {
-    class DefensiveStrategy
+    public class DefensiveStrategy : IAttackStrategy
     {
+        public string Execute() => "Waits for the perfect counterattack.";
     }
+
 }

@@ -24,7 +24,7 @@ class Program
                 Console.Write("Invalid input. Please enter 1, 2, or 3: ");
             }
 
-            // Use Factory Method pattern
+            // Factory pattern
             CharacterCreator creator = charChoice switch
             {
                 1 => new WarriorCreator(),
@@ -62,7 +62,27 @@ class Program
             Console.WriteLine("\nCharacter Summary:");
             Console.WriteLine(character.Display());
 
-            // part of the factory pattern but just a seperate thing for attacking
+            // Strategy pattern
+            Console.WriteLine("\nChoose a combat strategy:");
+            Console.WriteLine("1. Aggressive");
+            Console.WriteLine("2. Defensive");
+            Console.Write("Enter the number: ");
+
+            int strategyChoice;
+            while (!int.TryParse(Console.ReadLine(), out strategyChoice) || strategyChoice < 1 || strategyChoice > 2)
+            {
+                Console.Write("Invalid input. Please enter 1 or 2: ");
+            }
+
+            IAttackStrategy strategy = strategyChoice switch
+            {
+                1 => new AggressiveStrategy(),
+                2 => new DefensiveStrategy(),
+                _ => new AggressiveStrategy()
+            };
+
+            character = new StrategicCharacter(character, strategy);
+
             Console.Write("\nWould you like your character to attack? (y/n): ");
             string? attackInput = Console.ReadLine()?.Trim().ToLower();
 
@@ -74,7 +94,6 @@ class Program
             {
                 Console.WriteLine("\nCharacter chooses not to attack");
             }
-            //
 
             Console.Write("\nWould you like to create another character? (y/n): ");
             string? input = Console.ReadLine()?.Trim().ToLower();

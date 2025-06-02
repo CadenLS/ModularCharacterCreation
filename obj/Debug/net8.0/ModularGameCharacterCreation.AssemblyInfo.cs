@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModularGameCharacterCreation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2440b0fad8970cb9dd8bd9c500c82f3a26e9c96a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd47959facc1b0478da2ea1c69aba07706c8b0f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModularGameCharacterCreation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModularGameCharacterCreation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
